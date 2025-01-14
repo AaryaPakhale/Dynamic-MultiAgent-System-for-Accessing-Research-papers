@@ -1,0 +1,6 @@
+pathway
+langchain
+pandas
+sentence-transformers
+pathway[xpack-llm]
+langgraph
