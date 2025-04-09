@@ -1,4 +1,4 @@
-# Task 1: Classification of Reasearch Papers into Publishable and Non-Publishable
+# Task 1: Classification of Research Papers into Publishable and Non-Publishable
 
 * `Parsed_Docs` contains the Parsed Documents in `.md` format.<br>
 * Run the `extractor.ipynb` by replacing GROQ API Key and file paths file to save the extracted paper dataframe.<br>
